@@ -1,0 +1,8 @@
+### GET
+GET localhost:8080
+
+### GET Google logo
+GET localhost:8080/image/google
+
+### GET Gopher logo
+GET localhost:8080/image/go

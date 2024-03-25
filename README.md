@@ -95,8 +95,8 @@ A trivial web server that demonstrates the use of the
 
 ### How to run it?
 * Attempt1: `go run .` OR `go run main.go`
-* Attempt2: `go build` & `./template` -- which it's generated --
-* Solution: TODO:
+* Solution: `go build` & `./template` -- which it's generated --
+* Open in your browser or launch the requests 'requests.http'
 
 ## [slog-handler-guide](slog-handler-guide/)
 
