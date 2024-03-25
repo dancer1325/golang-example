@@ -2,8 +2,8 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// Template is a trivial web server that uses the text/template (and
-// html/template) package's "block" feature to implement a kind of template
+// Template is a trivial web server that uses the
+// html/template package's "block" feature to implement a kind of template
 // inheritance.
 //
 // It should be executed from the directory in which the source resides,

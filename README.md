@@ -88,10 +88,10 @@ help you find your bearings. It comes with several example programs that you
 can obtain using `go get` and play with as you learn to build tools that analyze
 or manipulate Go programs.
 
-## [template](template/)
+## [HTML template](html template/)
 
 A trivial web server that demonstrates the use of the
-[`template` package](https://golang.org/pkg/text/template/)'s `block` feature.
+[`html template` package](https://golang.org/pkg/html/template/) 's `block` feature.
 
 ### How to run it?
 * Attempt1: `go run .` OR `go run main.go`
