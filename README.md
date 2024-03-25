@@ -93,6 +93,11 @@ or manipulate Go programs.
 A trivial web server that demonstrates the use of the
 [`template` package](https://golang.org/pkg/text/template/)'s `block` feature.
 
+### How to run it?
+* Attempt1: `go run .` OR `go run main.go`
+* Attempt2: `go build` & `./template` -- which it's generated --
+* Solution: TODO:
+
 ## [slog-handler-guide](slog-handler-guide/)
 
 The `log/slog` package supports structured logging.
